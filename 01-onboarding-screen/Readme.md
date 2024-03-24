@@ -9,5 +9,4 @@ This project is a simple onboarding screen with a few slides. The project is bui
 
 ## Project Gif
 
-
-![metatag-generator](../readme-assets/onboarding.gif)
+<img src='../readme-assets/onboarding.gif' style='width: 30%;'>
