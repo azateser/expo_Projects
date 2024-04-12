@@ -6,7 +6,7 @@ This repository consists of 15 project trials for React Native
 | :---: | :---------------------: | :---------------------------: | :--------: |
 |  01   |    [Onboarding Screen](https://github.com/azateser/expo_Projects/tree/main/01-onboarding-screen)    |      React Native (Expo)      |     ✅     |
 |  02   |     [Login Register](https://github.com/azateser/expo_Projects/tree/main/02-login-signup-firebase)      | React Native (Expo), Firebase |     ✅     |
-|  03   |   Youtube Home Screen   |      React Native (Expo)      |     ⌛     |
+|  03   |   [Youtube Home Screen](https://github.com/azateser/expo_Projects/tree/main/03-youtube-home-screen)   |      React Native (Expo)      |     ✅     |
 |  04   |       Weather App       |      React Native (Expo)      |     ⌛     |
 |  05   |  Charcing Station App   |      React Native (Expo)      |     ⌛     |
 |  06   |       Camera App        |      React Native (Expo)      |     ⌛     |

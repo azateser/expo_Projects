@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "01-onboarding-screen",
-    "slug": "01-onboarding-screen",
+    "name": "03-youtube-home-screen",
+    "slug": "03-youtube-home-screen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
